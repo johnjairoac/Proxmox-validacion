@@ -1,4 +1,4 @@
-# Proxmox-validacion
+# Proxmox-validación
 Control arranque de maquinas y snapshots 
 
 
