@@ -12,6 +12,7 @@ Este script realiza los siguientes pasos:
 
 
 Se debe isntalar 2 paquetes 
-pip install proxmoxer
-pip install requests
+
+1. pip install proxmoxer
+2. pip install requests
 
