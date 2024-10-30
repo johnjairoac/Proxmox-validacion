@@ -8,3 +8,10 @@ Este script realiza los siguientes pasos:
 2. Inicia las máquinas virtuales 
 3. Crea un snapshot de cada máquina virtual usando el parámetro snapname.
 4. Consulta y muestra el estado actual de ambas máquinas virtuales.
+
+
+
+Se debe isntalar 2 paquetes 
+pip install proxmoxer
+pip install requests
+
