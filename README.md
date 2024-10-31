@@ -1,4 +1,4 @@
-![Banner de proxmox](proxmox.png)
+![Banner de proxmox](proxmox2.png)
 # Proxmox-validación
 Control arranque de maquinas y snapshots 
 
